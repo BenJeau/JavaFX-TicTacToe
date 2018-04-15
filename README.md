@@ -3,14 +3,14 @@ JavaFX tic-tac-toe game in which you can play against the computer, against some
 
 ## Screenshot
 
-![Client](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Client.PNG)
+![Client](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Choice.png)
 
-![Choice](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Choice.PNG)
+![Choice](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Choice.png)
 
-![Multiplayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Multiplayer.PNG)
+![Multiplayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Multiplayer.png)
 
-![Online](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Online.PNG)
+![Online](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Online.png)
 
-![SinglePlayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/SinglePlayer.PNG
+![SinglePlayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/SinglePlayer.png)
 
-![Game](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Game.PNG)
+![Game](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Game.png)
