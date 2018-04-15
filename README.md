@@ -3,8 +3,8 @@ JavaFX tic-tac-toe game in which you can play against the computer, against some
 
 ## Screenshot
 
-![Choice](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Choice.png)
 ![Client](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Client.png)
+![Choice](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Choice.png)
 
 ![Multiplayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Multiplayer.png)
 ![Online](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Online.png)
