@@ -11,6 +11,9 @@ JavaFX tic-tac-toe game in which you can play against the computer, against some
 
 ![Online](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Online.PNG)
 
-![SinglePlayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/SinglePlayer.PNG
+![SinglePlayer](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/SinglePlayer.PNG)
 
 ![Game](https://raw.githubusercontent.com/BenJeau/JavaFX-TicTacToe/master/screenshots/Game.PNG)
+
+### Disclamer
+I do not own the icon used in this application, the credit goes to Vlad Marin from IconFinder.
