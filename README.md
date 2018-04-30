@@ -1,5 +1,8 @@
 # JavaFX-TicTacToe
-My first JavaFX game, which is a tic-tac-toe game in which you can play against the computer, against someone else on your machine or against someone else on the same network.
+My first JavaFX game, which is a tic-tac-toe game in which you can play against the computer, against someone else on your machine or against someone else on the same network. This code is for the client side.
+
+## Usage
+If you only want to play the game, there is an [executable .jar](TicTacToe.jar) in which you can run or if you want to modify the code, the code is in [/src/application](/src/application). In the executable .jar file, there is a bug in which there are no background.
 
 ## Screenshot
 
