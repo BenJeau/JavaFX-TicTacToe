@@ -151,11 +151,11 @@ public class Main extends Application {
 		label1.setLayoutX(13.0);
 
 		// Puts the application icon
-		applicationIcon = new Image(new File("src//images//icon.png").toURI().toString());
+		applicationIcon = new Image(getClass().getResource("/images/icon.png").toExternalForm());
 		stage.getIcons().add(applicationIcon);
 
 		// Plays main menu sound
-		mainMenuSound = new MediaPlayer(new Media(new File("src//sound//jeux.mp3").toURI().toString()));
+		mainMenuSound = new MediaPlayer(new Media(getClass().getResource("/sound/jeux.mp3").toExternalForm()));
 		mainMenuSound.play();
 		mainMenuSound.setVolume(0);
 
@@ -243,7 +243,7 @@ public class Main extends Application {
 
 		});
 		
-		MediaPlayer md = new MediaPlayer(new Media(new File("src//sound//type.mp3").toURI().toString()));
+		MediaPlayer md = new MediaPlayer(new Media(getClass().getResource("/sound/type.mp3").toExternalForm()));
 		
 		// Plays sound textField1
 		textField1.textProperty().addListener(e -> {
@@ -396,7 +396,7 @@ public class Main extends Application {
 		hbox2.setId("background");
 		hbox3.setId("background");
 		hb.setId("background");
-		Application.setUserAgentStylesheet(this.getClass().getResource("application.css").toExternalForm());
+		Application.setUserAgentStylesheet(getClass().getResource("application.css").toExternalForm());
 		
 		root.getChildren().addAll(label1, button1, button2, button3);
 		scene1 = new Scene(root, 262, 215);
@@ -1397,8 +1397,8 @@ public class Main extends Application {
 		// Declaration of multiple important variables
 		group = new Pane();
 		con = new Label("Connexion au client");
-		te = new Label("R�USSI!");
-		avis = new Label("Le serveur doit �tre actif");
+		te = new Label("RÉUSSI!");
+		avis = new Label("Le serveur doit être actif");
 		avis.setLayoutY(20);
 		avis.setLayoutX(10);
 		back1.setLayoutX(70.0);
@@ -1459,9 +1459,9 @@ public class Main extends Application {
 		resultat2 = new ArrayList<Integer>();
 
 		// Declaration of music
-		winSound = new MediaPlayer(new Media(new File("src//sound//win.wav").toURI().toString()));
-		lostSound = new MediaPlayer(new Media(new File("src//sound//gun.mp3").toURI().toString()));
-		clickSound = new MediaPlayer(new Media(new File("src//sound//click.wav").toURI().toString()));
+		winSound = new MediaPlayer(new Media(getClass().getResource("/sound/win.wav").toExternalForm()));
+		lostSound = new MediaPlayer(new Media(getClass().getResource("/sound/gun.mp3").toExternalForm()));
+		clickSound = new MediaPlayer(new Media(getClass().getResource("/sound/click.wav").toExternalForm()));
 
 		// Defines what the "Try Again" button does
 		tryAgain = new Button("Try Again");
