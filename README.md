@@ -1,3 +1,7 @@
+> **Note:** this is a very old program that I made in mid high school - I decided to archive this repository, since I am not proud of the coding structure and implementation, but still find it a cool project
+
+----
+
 # JavaFX-TicTacToe
 My first JavaFX game, which is a tic-tac-toe game in which you can play against the computer, against someone else on your machine or against someone else on the same network. This code is for the client side.
 
